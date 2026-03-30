@@ -36,8 +36,8 @@ with proprietary alternatives.
 ### Steps
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone https://github.com/priyashr1904/oss-audit-24BCE10569.git
+cd oss-audit-24BCE10569
 
 # Make all scripts executable
 chmod +x *.sh
