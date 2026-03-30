@@ -1,6 +1,6 @@
 # OSS Audit — Python
-**Student Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
+**Student Name:** Priya Sharma 
+**Roll Number:** 24BCE10569 
 **Course:** Open Source Software  
 **Chosen Software:** Python (PSF License)
 
@@ -36,7 +36,7 @@ with proprietary alternatives.
 ### Steps
 ```bash
 # Clone the repo
-git clone https://github.com/priyashr1904/oss-audit-24BCE10569.git
+git clone https://github.com/priyashr1904-droid/oss-audit-24BCE10569.git
 cd oss-audit-24BCE10569
 
 # Make all scripts executable
